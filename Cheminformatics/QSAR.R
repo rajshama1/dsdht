@@ -28,6 +28,7 @@ library(gplots)
 library(latticeExtra)
 library(lattice)
 library(ggplot2)
+library(car)
 
 #----------------------------------------------------
 # Function to compute RMSE and R2 
